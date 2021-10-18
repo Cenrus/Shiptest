@@ -3226,6 +3226,7 @@ g// DM Environment file for tgstation.dme.
 #include "whitesands\code\datums\ruins\jungle.dm"
 #include "whitesands\code\datums\ruins\space.dm"
 #include "whitesands\code\datums\ruins\whitesands.dm"
+#include "whitesands\code\datums\ruins\ruin_code\ftl_spaceship"
 #include "whitesands\code\datums\status_effects\debuffs.dm"
 #include "whitesands\code\datums\traits\_quirk.dm"
 #include "whitesands\code\game\area\ship_areas.dm"
